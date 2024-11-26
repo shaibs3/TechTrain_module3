@@ -1,6 +1,3 @@
-# Let's save the Markdown content to a file so the user can download it.
-
-markdown_content = """
 # Hands-On Session: Container Vulnerability Scanning and Mitigation
 
 In this session, you will:
